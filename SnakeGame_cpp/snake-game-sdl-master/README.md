@@ -40,7 +40,7 @@ This game have the following features:
 
 ## Basic Build Instructions
 
-* Navigate to CppND-Capstone-Snake-Game/
+* Navigate to SnakeGame_cpp/
 * Make a new directory to build the project: mkdir <folder>
 * Navigate to the folder you created: cd <folder>
 * Run cmake to generate the makefile: cmake ../
