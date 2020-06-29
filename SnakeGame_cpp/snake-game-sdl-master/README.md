@@ -6,11 +6,11 @@ Extended snake game to support custom maps and ability to create maps using tile
 
 ## Game Featurs 
 This game have the following features:
-• Ability to control the snake direction using the keyboard arrows (Up – Down – Right – Left).
-• Food is placed randomly everytime the snake eats it.
-• A bouns food is randomly placed everytime the snake eats it. Also the bonus food makes all Asteroids disapper for sometime.
-• The snake dies when it’s hit by an asteroid or the snake tries to eat itself.
-• There is no win, User tries to get the highest score possible without dying.
+* Ability to control the snake direction using the keyboard arrows (Up – Down – Right – Left).
+* Food is placed randomly everytime the snake eats it.
+* The snake dies when it’s hit by an asteroid or the snake tries to eat itself.
+* There is no win, User tries to get the highest score possible without dying.
+
 ## What's new?
 
 <img src="feature_map.png">
@@ -40,13 +40,13 @@ This game have the following features:
 
 ## Basic Build Instructions
 
-• Navigate to CppND-Capstone-Snake-Game/
-• Make a new directory to build the project: mkdir <folder>
-• Navigate to the folder you created: cd <folder>
-• Run cmake to generate the makefile: cmake ../
-• Now use make command to build the project: make
-• To run the project type: ./SnakeGame
-• Navigate to CppND-Capstone-Snake-Game/
+* Navigate to CppND-Capstone-Snake-Game/
+* Make a new directory to build the project: mkdir <folder>
+* Navigate to the folder you created: cd <folder>
+* Run cmake to generate the makefile: cmake ../
+* Now use make command to build the project: make
+* To run the project type: ./SnakeGame
+* Navigate to CppND-Capstone-Snake-Game/
 
 
 ## Running
