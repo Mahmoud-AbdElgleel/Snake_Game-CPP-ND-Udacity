@@ -1,5 +1,5 @@
 #include "game.h"
-afadsd
+
 #include <iostream>
 #ifdef __WIN32__
 #include "SDL.h"
