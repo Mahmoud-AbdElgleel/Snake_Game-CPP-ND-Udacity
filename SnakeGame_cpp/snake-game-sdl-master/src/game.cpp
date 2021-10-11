@@ -10,7 +10,7 @@ afadsd
 Game::Game(std::size_t width_grid, std::size_t grid_height, std::string map_path)
     : snake(width_grid, grid_height), map(map_path), engine(dev()), random_w(0, static_cast<int>(width_grid - 1)), random_h(0, static_cast<int>(grid_height - 1)) {
     map.LoadMap();
-    PlaceFood();
+    PlaceFood();    //comment
 }
 
 void Game::Run(Controller const &controller, Renderer &renderer,
